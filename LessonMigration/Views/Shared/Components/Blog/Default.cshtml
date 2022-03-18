@@ -1,0 +1,36 @@
+﻿<!-- BLOG START -->
+
+        <div class="row pb-5">
+
+            @foreach (var blog in Model)
+             {
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="item">
+                        <img src="img/ position-relative">
+                        <div class="date rounded bg-light position-absolute py-1 px-2">
+                            @*<span>29.12.2019</span>*@
+                            <span>@blog.Date</span>
+                        </div>
+                    </div>
+                    <div class="text mt-3 text-center px-5">
+                        @*<h5>Flower Power</h5>*@
+                        <h5>@blog.Title</h5>
+                        <p class="text-black-50">
+                            @blog.Description
+
+                        </p>
+
+
+
+                    </div>
+
+                </div>
+
+
+             }
+
+
+
+        </div>
+ 
