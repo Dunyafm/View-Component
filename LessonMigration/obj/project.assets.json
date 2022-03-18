@@ -8483,11 +8483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FX706HCB\\Desktop\\P126-AspNet-Basket-ViewComponent\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
+      "projectUniqueName": "C:\\Users\\FX706HCB\\Desktop\\View-Component\\LessonMigration\\LessonMigration.csproj",
       "projectName": "LessonMigration",
-      "projectPath": "C:\\Users\\FX706HCB\\Desktop\\P126-AspNet-Basket-ViewComponent\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
+      "projectPath": "C:\\Users\\FX706HCB\\Desktop\\View-Component\\LessonMigration\\LessonMigration.csproj",
       "packagesPath": "C:\\Users\\FX706HCB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FX706HCB\\Desktop\\P126-AspNet-Basket-ViewComponent\\LessonMigration\\LessonMigration\\obj\\",
+      "outputPath": "C:\\Users\\FX706HCB\\Desktop\\View-Component\\LessonMigration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

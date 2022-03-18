@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTBTGSwyuP155yV4dycy2VYQBZ3jzK5pkPkQwsA9APo7Lvh7P9GE5OI9u1YkvjEB3VZf/ZriUo6hutZ8ttsqfg==",
+  "dgSpecHash": "nMqaz4RgpUtrKyz5Iy17WvDxPqfH2BumZg8kjma75ntQnHtMPQVfVWPWIgN6usKKoDV4kLIUxWsFatSWPkw/2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FX706HCB\\Desktop\\P126-AspNet-Basket-ViewComponent\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
+  "projectFilePath": "C:\\Users\\FX706HCB\\Desktop\\View-Component\\LessonMigration\\LessonMigration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FX706HCB\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\FX706HCB\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
